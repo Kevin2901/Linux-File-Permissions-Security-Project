@@ -8,7 +8,7 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 
 
-# Describe the command you can use to check permissions in the Check file and directory details section of the File permissions in Linux template.
+Describe the command you can use to check permissions in the Check file and directory details section of the File permissions in Linux template.
 
 
 

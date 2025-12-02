@@ -41,19 +41,19 @@ This simulation reflects common tasks performed by cybersecurity analysts and Li
 # 🛠️ Skills & Tools Used
 Linux Tools & Commands
 
-ls -l — view permissions
+    ls -l — view permissions
 
-chmod — modify permissions (numeric & symbolic)
+    chmod — modify permissions (numeric & symbolic)
 
-chown — change file and directory ownership
+    chown — change file and directory ownership
 
-chgrp — update group ownership
+    chgrp — update group ownership
 
-umask — configure default permissions
+    umask — configure default permissions
 
-mkdir, touch, cp, mv, rm — file management commands
+    mkdir, touch, cp, mv, rm — file management commands
 
-- Security Concepts
+# Security Concepts
 
 Principle of Least Privilege
 

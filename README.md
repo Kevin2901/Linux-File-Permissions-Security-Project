@@ -55,15 +55,15 @@ Linux Tools & Commands
 
 # Security Concepts
 
-Principle of Least Privilege
+- Principle of Least Privilege
 
-Access Control
+- Access Control
 
-Confidentiality, Integrity, Availability (CIA Triad)
+- Confidentiality, Integrity, Availability (CIA Triad)
 
-Secure file and directory structuring
+- Secure file and directory structuring
 
-User and group privilege modeling
+- User and group privilege modeling
 
 # 📝 Tasks Completed
 
@@ -83,28 +83,28 @@ User and group privilege modeling
 
 Through this project, I gained hands-on experience in:
 
-Hardening a Linux environment
+- Hardening a Linux environment
 
-Preventing unauthorized data access
+- Preventing unauthorized data access
 
-Managing user and group permissions
+- Managing user and group permissions
 
-Applying practical security controls in a command-line environment
+- Applying practical security controls in a command-line environment
 
-Understanding how file permissions directly impact system security
+- Understanding how file permissions directly impact system security
 
 # 🎓 Skills Demonstrated
 
 This project highlights job-ready cybersecurity and IT skills:
 
-Linux administration
+- Linux administration
 
-File permission auditing
+- File permission auditing
 
-Access control implementation
+- Access control implementation
 
-System hardening
+- System hardening
 
-Command-line operations
+- Command-line operations
 
-Security best practices
+- Security best practices
